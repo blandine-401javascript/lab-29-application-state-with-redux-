@@ -18,7 +18,7 @@
 
 
 
-- [PR Link](https://github.com/blandine-401javascript/lab-29-application-state-with-redux-/pull/2)
+- [PR Link](https://github.com/blandine-401javascript/lab-29-application-state-with-redux-/pull/1)
 
 
 -  App deployed siteS
