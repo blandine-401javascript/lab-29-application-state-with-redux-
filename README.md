@@ -30,9 +30,7 @@
 
 
 
-lab-31-Combined Reducers
-
-
+# lab-31-Combined Reducers
 
 
 
@@ -58,4 +56,4 @@ lab-31-Combined Reducers
 - Opem link to see App  
 
 
-[Netlify]()
+[Netlify](https://serene-jang-259c85.netlify.app/)
